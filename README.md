@@ -1,6 +1,6 @@
 # 🎯 Bullseye 🎯
 <div align="center">
-  Bull's Eye - an iOS app built using SwiftUI.
+  Bull's Eye - an iOS app built using UIKit and Swift.
 </div>
 
 ## About
