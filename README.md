@@ -6,7 +6,7 @@
 ## About
 
 <p align="center">
-  <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/BullseyeAbout.png?raw=true" width="720"></img>
+  <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-UIKit-Bullseye/blob/master/BullseyeAbout.png?raw=true" width="720"></img>
  
 </p>
 
@@ -14,4 +14,4 @@
 
 Screenshot 1 | Screenshot 2
 :-------------------------:|:-------------------------:
-![](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye0.png?raw=true)  |  ![](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye1.png?raw=true)
+![](https://github.com/justadlet/iOS-UIKit-Bullseye/blob/master/Bullseye0.png?raw=true)  |  ![](https://github.com/justadlet/iOS-UIKit-Bullseye/blob/master/Bullseye1.png?raw=true)
