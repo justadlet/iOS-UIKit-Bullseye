@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		7F40E631258100270082F20C /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
-		7F825020256E2C1200B61E9D /* iOS-UIKit-Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-UIKit-Bullseye.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F825020256E2C1200B61E9D /* Bull's Eye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bull's Eye.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F825023256E2C1200B61E9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F825025256E2C1200B61E9D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7F825027256E2C1200B61E9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		7F825021256E2C1200B61E9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7F825020256E2C1200B61E9D /* iOS-UIKit-Bullseye.app */,
+				7F825020256E2C1200B61E9D /* Bull's Eye.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -87,7 +87,7 @@
 			);
 			name = "iOS-UIKit-Bullseye";
 			productName = "iOS-UIKit-Bullseye";
-			productReference = 7F825020256E2C1200B61E9D /* iOS-UIKit-Bullseye.app */;
+			productReference = 7F825020256E2C1200B61E9D /* Bull's Eye.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -296,7 +296,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.justadlet.iOS-UIKit-Bullseye";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Bull's Eye";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.justadlet.iOS-UIKit-Bullseye";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Bull's Eye";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
